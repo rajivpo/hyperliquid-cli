@@ -105,9 +105,6 @@ pub async fn execute(args: WatchBookArgs) {
                     format_decimal(&sell_slippage_10k.to_string(), market_sz_decimals, Color::White, true),
                     format_decimal(&sell_slippage_100k.to_string(), market_sz_decimals, Color::White, true),
                 );
-                // println!("Liq±2%: {}", 
-                //     format_decimal(&total_notional_in_range.to_string(), market_sz_decimals, Color::White, false)
-                // );
             }
             println!();
     

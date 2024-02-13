@@ -1592,9 +1592,9 @@ dependencies = [
 
 [[package]]
 name = "hyperliquid_rust_sdk"
-version = "0.2.0"
+version = "0.2.2"
 source = "registry+https://github.com/rust-lang/crates.io-index"
-checksum = "380e5d96db9d2f58507aa16a9ae8c13c6575a065f9935bc06b8b9017477c29c9"
+checksum = "ff5f30aa687e5441abf2c757cc816545aeefc24b6b10a0711c0b5c641dfd9fbb"
 dependencies = [
  "chrono",
  "env_logger",
