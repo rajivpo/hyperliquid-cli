@@ -12,5 +12,7 @@ env_logger = "0.10.0"
 hyperliquid_rust_sdk = "0.2.2"
 log = "0.4.20"
 tokio = { version = "1.29.1", features = ["full"] }
-crossterm = "0.22"
+crossterm = "0.23.0"
 chrono = "0.4.30"
+ratatui = "0.23.0"
+rand = "0.8.5"
